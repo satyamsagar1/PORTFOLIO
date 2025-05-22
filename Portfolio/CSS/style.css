@@ -428,6 +428,9 @@ span{
     .home-img img{
         width:90vw;
     }
+    .header{
+        height: 7vh;
+    }
     .about img{
         width:90vw;
     }
